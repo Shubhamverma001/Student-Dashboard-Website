@@ -1,4 +1,4 @@
-# Student_Dashboard_Website
+# StudentSphere: Empowering Education, One Dashboard at a Time
 The student dashboard website provides a centralized platform for students to access their academic information, such as grades, course schedules, and announcements. It empowers students to stay organized, track their progress, and access relevant resources conveniently.
 #Steps to run 
 Download all the files in a folder.
